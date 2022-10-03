@@ -13,6 +13,7 @@ Skills Demonstrated
     - Default layout or skeleton on HTML files. 
 - Working with Texts?
 - Lists?
+    - Unordered List Tags (ul) 
 - Links & Images?
     - Relative Image Links 
     - Relative HTML Links 
