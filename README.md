@@ -7,8 +7,13 @@ Language
 
 Skills Demonstrated
 - Elements & Tags?
-- HTML Boilerplate & Layout?
+    - Using Heading Tags(H1-H6)
+    - Using Paragraphs Tags 
+- HTML Boilerplate?
+    - Default layout or skeleton on HTML files. 
 - Working with Texts?
 - Lists?
 - Links & Images?
+    - Relative Image Links 
+    - Relative HTML Links 
 - Commit Messages on Github??
