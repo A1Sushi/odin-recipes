@@ -13,8 +13,14 @@ Skills Demonstrated
     - Default layout or skeleton on HTML files. 
 - Working with Texts?
 - Lists?
-    - Unordered List Tags (ul) 
+    - Unordered List Tags (ul) and li bullet points
 - Links & Images?
     - Relative Image Links 
     - Relative HTML Links 
 - Commit Messages on Github??
+
+Recipe Reference Links
+- https://mykoreankitchen.com/korean-black-bean-sauce-noodles-jajangmyeon/
+
+Currently @
+- Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe. on Pork marinade sauce
