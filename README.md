@@ -5,6 +5,14 @@ Introduction
 Language
 - HTML
 
+Skills Learned up to this Point 
+- Elements & Tags
+- HTML Boilerplate
+- Working with Texts
+- Lists
+- Links & Images
+- Commit Messages on Github
+
 Skills Demonstrated
 - Elements & Tags?
     - Using Heading Tags(H1-H6)
