@@ -12,12 +12,12 @@ Skills Learned up to this Point
 - HTML Boilerplate
     - How to write the basic boilerplate for an HTML document
 - Working with Texts
-    - How to create paragraphs?
-    - How to create headings?
-    - How to create bold text?
-    - How to create italicized text?
-    - The relationships between nested elements?
-    - How to create HTML comments?
+    - How to create paragraphs
+    - How to create headings
+    - How to create bold text
+    - How to create italicized text
+    - The relationships between nested elements
+    - How to create HTML comments
 - Lists
     - How to create an unordered list
     - How to create an ordered list
@@ -33,11 +33,29 @@ Skills Learned up to this Point
 
 Skills Demonstrated
 - Elements & Tags?
+    - 
+    - 
 - HTML Boilerplate?
+    -
 - Working with Texts?
+    - Using <p> tags to separate groups of text(s)
+    - 
+    - 
+    - 
+    - 
+    - Using HTML comments to let others know intentions for certain lines of code
 - Lists?
+    - 
+    - 
 - Links & Images?
+    - 
+    - 
+    - 
+    - 
 - Commit Messages on Github?
+    - 
+    - 
+    - 
 
 Possible Improvements
 - 
@@ -45,4 +63,4 @@ Possible Improvements
 Recipe Reference Links
 - https://mykoreankitchen.com/korean-black-bean-sauce-noodles-jajangmyeon/
 - https://futuredish.com/tomato-egg-stirfry-iconic-chinese-breakfast-item/
-- ?
+- https://www.slenderkitchen.com/recipe/healthy-kung-pao-chicken 
