@@ -5,14 +5,22 @@
 ## Language(s)
 - HTML
 
-## Link(s)
-- [Click here to view live project!] (https://a1sushi.github.io/odin-recipes/)
+## Tools
+- Git & Github
+- Visual Studio Code 
 
-## Recipe Reference Links
+## Link(s)
+- [Click here to view live project!](https://a1sushi.github.io/odin-recipes/)
+- [Assignment Link](https://www.theodinproject.com/lessons/foundations-recipes) 
+
+## Recipe Reference Links & Credit 
 - https://mykoreankitchen.com/korean-black-bean-sauce-noodles-jajangmyeon/
 - https://futuredish.com/tomato-egg-stirfry-iconic-chinese-breakfast-item/
 - https://www.slenderkitchen.com/recipe/healthy-kung-pao-chicken 
 
 ## Screenshots 
-- N/A for now!
+- Coming in the future!
 - ![](/gifs/Sorry-GIF.gif)
+
+## Summary 
+- Overall, I learned how to put together a basic HTML page using fundamentals such as HTML Boilerplate, elements, tags, working with texts, creating lists, implementing links, images, how to use git & commit messages to github! 

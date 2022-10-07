@@ -1,8 +1,7 @@
 ## Skills Learned up to this Point 
 1. Elements & Tags
     - Explain what HTML Tags are.
-        - Containers for content that the browser can interpret and format
-        - Utilized opening paragraph tags <p>text</p> & many others 
+        - 
     - Explain what HTML elements are.
 2. HTML Boilerplate
     - How to write the basic boilerplate for an HTML document?
