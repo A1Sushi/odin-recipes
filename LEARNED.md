@@ -1,25 +1,25 @@
 ## Skills Learned up to this Point 
 1. Elements & Tags
     - Explain what HTML Tags are.
-        a) Containers for content that the browser can interpret and format
-        b) Utilized opening paragraph tags <p>text</p> & many others 
+        - Containers for content that the browser can interpret and format
+        - Utilized opening paragraph tags <p>text</p> & many others 
     - Explain what HTML elements are.
 2. HTML Boilerplate
     - How to write the basic boilerplate for an HTML document?
-        a) Typing "!" & enter in html file 
+        - Typing "!" & enter in html file 
     - How to open HTML documents in your browser?
-        i) Dragging file in address bar of browser 
-        ii) Double file in system
-        iii) Directory Navigation in terminal using "open ./index.html"
+        - Dragging file in address bar of browser 
+        - Double file in system
+        - Directory Navigation in terminal using "open ./index.html"
 3. Working with Texts
     - How to create paragraphs?
-        - Using multiple <p></p> tags to separate groups of text
+        - "p" tags 
     - How to create headings?
-        - <h1> to <h6> tags for largest to least important 
+        - h1 to h6 tags for largest to least important 
     - How to create bold text?
-        - <strong> element
+        - "strong" element
     - How to create italicized text?
-        - <em> tag 
+        - "em" tag 
     - The relationships between nested elements.
         - Elements under each have parent & child relationship
         - Multiple children under the same parent element are siblings 
@@ -52,4 +52,5 @@
 
 ## Possible Improvements
 - Adding link directing back to main page 
+- Using italicized and bold text(s)
 - 

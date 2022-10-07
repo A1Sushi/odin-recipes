@@ -1,12 +1,12 @@
-# odin-recipes
+# Odin Recipes
 ## Introduction
-- Welcome to my first project in 2022, Where I'll be focusing on demonstrating my knowledge of HTML!
+- Welcome to my first project in 2022, where I'll be focusing on demonstrating my knowledge of HTML!
 
 ## Language(s)
 - HTML
 
 ## Link(s)
-[Click here to view live project!] (https://a1sushi.github.io/odin-recipes/)
+- [Click here to view live project!] (https://a1sushi.github.io/odin-recipes/)
 
 ## Recipe Reference Links
 - https://mykoreankitchen.com/korean-black-bean-sauce-noodles-jajangmyeon/
@@ -15,4 +15,4 @@
 
 ## Screenshots 
 - N/A for now!
-![](/gifs/Sorry-GIF.gif)
+- ![](/gifs/Sorry-GIF.gif)
