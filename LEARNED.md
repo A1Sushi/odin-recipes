@@ -69,7 +69,7 @@
 
 # CSS Skills Learned up to this Point (10/12/2022)
 1. Selectors?
-    ##### Universal Selector?
+    ##### Universal Selector
         - "*" will select elements of any type
     ##### Type Selectors
         - or element selector will select all elements of the given element type
