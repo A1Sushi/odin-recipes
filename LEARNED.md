@@ -73,7 +73,7 @@
         - "*" will select elements of any type
     ##### Type Selectors
         - or element selector will select all elements of the given element type
-    ##### Class Selectors?
+    ##### Class Selectors
         - "." Selects all elements with the given class, which is just an attribute you place on an HTML element
     ##### ID Selectors
         - "#" Selects an element with the given ID, which is another attribute you place on an HTML element

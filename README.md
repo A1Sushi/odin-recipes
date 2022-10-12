@@ -4,7 +4,7 @@
 
 ## Language(s)
 - HTML
-- CSS (Coming Soon!)
+- CSS
 
 ## Tools
 - Git & Github
