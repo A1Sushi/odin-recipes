@@ -1,0 +1,50 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    background-color: hsla(120, 60%, 70%, 0.3);
+    font-size: 30px;
+    font-weight: 1000;
+    text-align: center;
+} 
+
+.dish {
+    height: auto;
+    width: 100%;
+
+}
+
+h2 {
+    background-color: hwb(309 87% 5%);
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+  }
+
+ul li:before
+{
+    content: "\2610";
+    margin-right:5px;
+}
+
+ul li:hover:before
+{
+    content: "\2611";
+    margin-right:5px;
+}
+
+h3 {  
+    color:rgb(255, 0, 0) ; 
+}
+
+.links {
+    color: rgb(0, 80, 9);
+    text-align: center;
+}
+
+.links.credit {
+    background-color: hsla(158, 22%, 83%, 0.914);
+}
