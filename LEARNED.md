@@ -1,4 +1,4 @@
-# Skills Learned up to this Point 
+# Skills Learned up to this Point (10/07/22)
 1. Elements & Tags
     ##### Explain what HTML Tags are.
         - Almost all elements on an HTML page are just pieces of content wrapped in opening and closing HTML tags.
@@ -59,10 +59,36 @@
 - Instead of skills up to this point, just list topics you learned that you will implement into the project 
 - Summarizing is a waste of time because there are already links on each lessons, just learn how to access them quickly for documentation
 - Using link targets to open link in new window & tab!
-- Using conventional commits to have an organized template to follow
+- Using conventional commits to have an organized template to follow!
 ### Naming 
 - Use shorter names for folders because you have to reference them
     - js, css, img
 - Use hyphen instead of space when naming
 - Avoid capitals 
 - Avoid numbers 
+
+# CSS Skills Learned up to this Point (10/12/2022)
+1. Selectors?
+    ##### Universal Selector?
+        - "*" will select elements of any type
+    ##### Type Selectors
+        - or element selector will select all elements of the given element type
+    ##### Class Selectors?
+        - "." Selects all elements with the given class, which is just an attribute you place on an HTML element
+    ##### ID Selectors
+        - "#" Selects an element with the given ID, which is another attribute you place on an HTML element
+    ##### Grouping Selector?
+    ##### Chaining Selectors?
+        - - chain them as a list without any separation
+    ##### Descendant Combinator?
+2. Basic Properties
+    ##### Color and Background-Color
+        - HEX, RGB, and HSL values
+        - https://www.w3schools.com/cssref/css_colors_legal.asp
+    ##### Typography Basics and Text-Align
+        - font-family, font-size, font-weight, text-align
+        - image height & weight
+3. CSS Cascade?
+    ###### Specificity?
+    ###### Inheritance?
+    ###### Rule Order?

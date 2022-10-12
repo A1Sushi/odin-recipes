@@ -4,6 +4,7 @@
 
 ## Language(s)
 - HTML
+- CSS (Coming Soon!)
 
 ## Tools
 - Git & Github
@@ -24,3 +25,4 @@
 
 ## Summary 
 - Overall, I learned how to put together a basic HTML page using fundamentals such as HTML Boilerplate, elements, tags, working with texts, creating lists, implementing links, images, how to use git & commit messages to github! 
+- CSS Coming? 
