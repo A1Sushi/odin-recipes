@@ -25,4 +25,5 @@
 
 ## Summary 
 - Overall, I learned how to put together a basic HTML page using fundamentals such as HTML Boilerplate, elements, tags, working with texts, creating lists, implementing links, images, how to use git & commit messages to github! 
-- CSS Coming? 
+- I learned how to use utilize multiple CSS selectors, grouping them together through chaining and a descendent combinator. I also was able to use basic properties such as styling the color and changing the typography. It also required me to deal with CSS Cascading through specificity, inheritance and rule orders.
+- Utilizing the box model concept to implement CSS Designs 

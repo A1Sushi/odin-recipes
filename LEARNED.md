@@ -92,3 +92,14 @@
     ###### Specificity?
     ###### Inheritance?
     ###### Rule Order?
+
+# CSS Box Model (10/17/2022)
+1. Box Model
+    ###### Margin
+        - 
+    ###### Padding
+        - 
+    ###### Border
+        - 
+2. Box Sizing 
+    
