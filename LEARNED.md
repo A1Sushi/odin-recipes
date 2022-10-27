@@ -79,7 +79,7 @@
         - "#" Selects an element with the given ID, which is another attribute you place on an HTML element
     ##### Grouping Selector?
     ##### Chaining Selectors?
-        - - chain them as a list without any separation
+        - chain them as a list without any separation
     ##### Descendant Combinator?
 2. Basic Properties
     ##### Color and Background-Color
@@ -102,4 +102,13 @@
     ###### Border
         - 
 2. Box Sizing 
-    
+
+# Block & Inline
+1. Normal Flow
+2. Block Vs. Inline
+3. Divs & Spans
+
+# Flex-box 
+1. Positioning
+2. Flex containers & items
+3. Layouts 
